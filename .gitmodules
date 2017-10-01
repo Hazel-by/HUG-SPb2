@@ -1,3 +1,6 @@
 [submodule "HUG-SPb2-Control"]
 	path = HUG-SPb2-Control
 	url = https://github.com/Hazel-by/HUG-SPb2-Control.git
+[submodule "HUG-SPb2-Modules"]
+	path = HUG-SPb2-Modules
+	url = https://github.com/Hazel-by/HUG-SPb2-Modules.git
